@@ -20,7 +20,7 @@ To install and run this project locally, you need to have Node.js and MongoDB in
 -  Navigate to the project directory in your terminal.
 -  Run npm install to install the necessary dependencies.
 -  Start the MongoDB service.
--  Run npm start to start the application.
+-  Run < node index.js > to start the application.
 
 ## Usage
 
